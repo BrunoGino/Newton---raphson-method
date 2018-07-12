@@ -1,0 +1,6 @@
+C:\Users\bruno\source\repos\TESTE_Cálculo\TESTE_Cálculo\obj\Debug\Método de Newton-Raphson.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\TESTE_Cálculo\TESTE_Cálculo\bin\Debug\TESTE_Cálculo.exe.config
+C:\Users\bruno\source\repos\TESTE_Cálculo\TESTE_Cálculo\bin\Debug\TESTE_Cálculo.exe
+C:\Users\bruno\source\repos\TESTE_Cálculo\TESTE_Cálculo\bin\Debug\TESTE_Cálculo.pdb
+C:\Users\bruno\source\repos\TESTE_Cálculo\TESTE_Cálculo\obj\Debug\TESTE_Cálculo.exe
+C:\Users\bruno\source\repos\TESTE_Cálculo\TESTE_Cálculo\obj\Debug\TESTE_Cálculo.pdb
